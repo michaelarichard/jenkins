@@ -1,3 +1,4 @@
+ansicolor
 apache-httpcomponents-client-4-api
 credentials
 display-url-api
